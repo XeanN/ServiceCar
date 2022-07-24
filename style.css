@@ -326,6 +326,7 @@ footer li span {
 
 .container_servicios{
     display: flex;
+    justify-content: space-evenly;
 }
 .card{
     background-color: #ffffff;
