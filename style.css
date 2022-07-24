@@ -391,23 +391,23 @@ footer li span {
 
 .card .price{
     text-align: right;
-    margin-top: -24px;
+    margin-top: -20px;
 }
 
 .card .price :is(h6,h4){
     font-family: "Myriad Bold";
     color:#ffffff;
-    margin: 0;
+    margin: 10;
 }
 
 .card .price h6{
     color: #a3a3a3;
-    font-size: 12px;
+    font-size: 15px;
     text-decoration: line-through;
 }
 
 .card .price h4{
-    font-size: 24px;
+    font-size: 26px;
     margin-top: -4px;
 }
 
